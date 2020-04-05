@@ -1,0 +1,5 @@
+---
+deployment:
+        task:
+                - export DEPLOYPATH=/home/dxybtyed/public_html/matstage.se
+                - /bin/cp -R * $DEPLOYPATH

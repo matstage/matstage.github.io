@@ -41,9 +41,6 @@ build/Release
 node_modules/
 jspm_packages/
 
-# The package-lock.json file screws up updates
-package-lock.json
-
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
 
